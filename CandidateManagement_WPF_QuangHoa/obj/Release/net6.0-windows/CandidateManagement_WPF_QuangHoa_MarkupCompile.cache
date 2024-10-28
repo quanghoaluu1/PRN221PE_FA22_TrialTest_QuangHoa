@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Admin\Desktop\PRN221PE_FA22_TrialTest_QuangHoa\PRN221PE_FA22_TrialTest_QuangHoa\CandidateManagement_WPF_QuangHoa\obj\Release\net6.0-windows\
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\CandidateManagement_WPF_QuangHoa\obj\Release\net6.0-windows\
 CandidateManagement_WPF_QuangHoa
 none
 false
 TRACE;RELEASE;NET;NET6_0;NETCOREAPP
-C:\Users\Admin\Desktop\PRN221PE_FA22_TrialTest_QuangHoa\PRN221PE_FA22_TrialTest_QuangHoa\CandidateManagement_WPF_QuangHoa\App.xaml
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\CandidateManagement_WPF_QuangHoa\App.xaml
 3-1900370856
-
+1-1606302853
 6-172001041
-22319539264
+2301543196867
 Candidate.xaml;JobPostingWindow.xaml;LoginWindow.xaml;
 
 True

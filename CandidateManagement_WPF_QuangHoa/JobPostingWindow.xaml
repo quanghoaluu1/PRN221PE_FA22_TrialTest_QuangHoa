@@ -5,7 +5,6 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CandidateManagement_WPF_QuangHoa"
         mc:Ignorable="d"
-        Icon="C:\Users\Admin\Desktop\PRN221PE_FA22_TrialTest_QuangHoa\PRN221PE_FA22_TrialTest_QuangHoa\CandidateManagement_WPF_QuangHoa\Icon.ico"
         Title="Job Posting Detail" Height="484" Width="800" Loaded="Window_Loaded">
     <Grid Height="473" VerticalAlignment="Top">
         <Grid.ColumnDefinitions>

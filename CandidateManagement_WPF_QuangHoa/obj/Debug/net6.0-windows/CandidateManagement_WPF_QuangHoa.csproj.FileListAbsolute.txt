@@ -146,3 +146,14 @@ C:\Users\Admin\Desktop\PRN221PE_FA22_TrialTest_QuangHoa\PRN221PE_FA22_TrialTest_
 C:\Users\Admin\Desktop\PRN221PE_FA22_TrialTest_QuangHoa\PRN221PE_FA22_TrialTest_QuangHoa\CandidateManagement_WPF_QuangHoa\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
 C:\Users\Admin\Desktop\PRN221PE_FA22_TrialTest_QuangHoa\PRN221PE_FA22_TrialTest_QuangHoa\CandidateManagement_WPF_QuangHoa\bin\Debug\net6.0-windows\System.Text.Json.dll
 C:\Users\Admin\Desktop\PRN221PE_FA22_TrialTest_QuangHoa\PRN221PE_FA22_TrialTest_QuangHoa\CandidateManagement_WPF_QuangHoa\bin\Debug\net6.0-windows\appsettings.json
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\CandidateManagement_WPF_QuangHoa\bin\Debug\net6.0-windows\appsettings.json
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\CandidateManagement_WPF_QuangHoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\CandidateManagement_WPF_QuangHoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\CandidateManagement_WPF_QuangHoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\CandidateManagement_WPF_QuangHoa\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\CandidateManagement_WPF_QuangHoa\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\CandidateManagement_WPF_QuangHoa\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\CandidateManagement_WPF_QuangHoa\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\CandidateManagement_WPF_QuangHoa\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\CandidateManagement_WPF_QuangHoa\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\C#\TrialTest\PRN221PE_FA22_TrialTest_QuangHoa\CandidateManagement_WPF_QuangHoa\obj\Debug\net6.0-windows\CandidateManagement_WPF_QuangHoa_Content.g.cs

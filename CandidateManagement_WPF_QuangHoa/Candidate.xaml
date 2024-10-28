@@ -5,8 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CandidateManagement_WPF_QuangHoa"
         mc:Ignorable="d"
-        
-        Icon="C:\Users\Admin\Desktop\PRN221PE_FA22_TrialTest_QuangHoa\PRN221PE_FA22_TrialTest_QuangHoa\CandidateManagement_WPF_QuangHoa\Icon.ico"
+
         Title="Candidate Profile Manager" Height="651" Width="1014"  Loaded="Window_Loaded"
         >
     <Grid Margin="0,-14,-1,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Cursor="Hand">

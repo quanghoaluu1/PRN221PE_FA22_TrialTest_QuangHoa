@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_RazorPage\\CandidateManagement_RazorPage.csproj": {}
+    "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_RazorPage\\CandidateManagement_RazorPage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_RazorPage\\CandidateManagement_RazorPage.csproj": {
+    "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_RazorPage\\CandidateManagement_RazorPage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_RazorPage\\CandidateManagement_RazorPage.csproj",
+        "projectUniqueName": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_RazorPage\\CandidateManagement_RazorPage.csproj",
         "projectName": "CandidateManagement_RazorPage",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_RazorPage\\CandidateManagement_RazorPage.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_RazorPage\\obj\\",
+        "projectPath": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_RazorPage\\CandidateManagement_RazorPage.csproj",
+        "packagesPath": "C:\\Users\\quang\\.nuget\\packages\\",
+        "outputPath": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\CandidateManagement_RazorPage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\quang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\Candidate_Repository.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\Candidate_Repository.csproj"
+              "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\Candidate_Repository.csproj": {
+                "projectPath": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\Candidate_Repository.csproj"
               }
             }
           }
@@ -72,24 +72,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj": {
+    "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
+        "projectUniqueName": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
         "projectName": "Candidate_BusinessObjects",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_BusinessObjects\\obj\\",
+        "projectPath": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
+        "packagesPath": "C:\\Users\\quang\\.nuget\\packages\\",
+        "outputPath": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\quang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -159,24 +159,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\Candidate_DAO.csproj": {
+    "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\Candidate_DAO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\Candidate_DAO.csproj",
+        "projectUniqueName": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\Candidate_DAO.csproj",
         "projectName": "Candidate_DAO",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\Candidate_DAO.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\obj\\",
+        "projectPath": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\Candidate_DAO.csproj",
+        "packagesPath": "C:\\Users\\quang\\.nuget\\packages\\",
+        "outputPath": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\quang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -192,8 +192,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj"
+              "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj": {
+                "projectPath": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj"
               }
             }
           }
@@ -234,24 +234,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\Candidate_Repository.csproj": {
+    "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\Candidate_Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\Candidate_Repository.csproj",
+        "projectUniqueName": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\Candidate_Repository.csproj",
         "projectName": "Candidate_Repository",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\Candidate_Repository.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\obj\\",
+        "projectPath": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\Candidate_Repository.csproj",
+        "packagesPath": "C:\\Users\\quang\\.nuget\\packages\\",
+        "outputPath": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\quang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -267,8 +267,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\Candidate_DAO.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\PRN221PE_FA22_TrialTest_QuangHoa\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\Candidate_DAO.csproj"
+              "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\Candidate_DAO.csproj": {
+                "projectPath": "E:\\C#\\TrialTest\\PRN221PE_FA22_TrialTest_QuangHoa\\Candidate_DAO\\Candidate_DAO.csproj"
               }
             }
           }
@@ -303,7 +303,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
